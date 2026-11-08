@@ -2,11 +2,13 @@
 int main(void)
 // A program that makes descisions bassed on conditional statements 
     {printf("STUDENT MANAGEMENT SYSTEM\n");
-    char name[] = "Dismas";
+    char name[50];
     int attendance;
     int age;
     double marks;
     printf("Collecting student details.\n");
+    printf("Enter student name: ");
+    scanf("%49s", name);
     printf("Enter age: ");
     scanf(" %d", &age);
     printf("Enter Class attendance percentage: ");
