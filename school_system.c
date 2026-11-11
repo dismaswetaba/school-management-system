@@ -12,7 +12,7 @@ int main(void)
     printf("2. View student report: \n");
     printf("3. View student Programs: \n");
     printf("4. View performance analysis: \n");
-    switch (choice);
+    switch (choice)
 
 
 
