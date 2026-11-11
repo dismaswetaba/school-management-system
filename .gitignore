@@ -1,0 +1,8 @@
+# Ignore executable files 
+*.exe
+
+# Ignore  Compilled objects
+*.o 
+
+# Ignore log files
+*.log
