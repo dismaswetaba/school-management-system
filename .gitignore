@@ -6,3 +6,5 @@
 
 # Ignore log files
 *.log
+#Ignore compilled files
+school_system
